@@ -1,0 +1,43 @@
+{
+  "SYT001291": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Adrian Kraus, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Anno J. Rodenburg, Oudemolenseweg 4, 9492 TC Ubbena, Niederlande",
+    "price": "8.000 €",
+    "description": "Hersteller: Yamaha<br>Typ: Tenere 700 <br>Fahrgestelnummer: VG5DM111000006011 <br>Erstzulassung: 08/2022 <br>KM laut Vorbesitzer: 10.413  km <br>Leistung: 54 kW <br>Hubraum: 689 cm³<br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Niederländische Zulassung.Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Anno J. Rodenburg <br>Oudemolenseweg 4<br>9492 TC Ubbena<br>Niederlande<br>Telefon: +31 648670170",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "08-09-2025",
+    "deliveryDate": "17-09-2025",
+    "pickup": {
+      "street": "Lessingstraße 11",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Oudemolenseweg 4",
+      "postal_code": "9492 TC",
+      "city": "Ubbena",
+      "country": "Niederlande"
+    }
+  }
+}
